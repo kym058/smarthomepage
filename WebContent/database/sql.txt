@@ -1,0 +1,13 @@
+SQL (Structured Query Language)
+구조적 질의 언어.
+
+데이터 베이스에 저장된 데이터를 
+조회, 입력, 수정, 삭제하는 등의 조작을 통해 
+DB 를 운영하는 언어.
+
+create : 생성 C  ==> Java 에서 set
+select : 읽기 Read ===> Java 에서  get
+update : 수정 Update ===> Java 에서 set
+delete : 삭제 Delete ===> Java 에서 set
+
+C-R-U-D : 생성, 조회, 수정, 삭제 앞글자만 따서 부름.
